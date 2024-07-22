@@ -7,3 +7,7 @@
 ```
 https://github.com/gonzaga95/gonzaga95
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
